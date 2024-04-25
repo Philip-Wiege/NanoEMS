@@ -46,3 +46,8 @@ Components:
     - Hot Water Demand Curve
 - Solar Forecast
 - Weather Forecast
+- Electrical Grid
+    - Import Power Limit
+    - Export Power Limit
+    - Import Tarif
+    - Export Tarif
