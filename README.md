@@ -1,4 +1,4 @@
-# hassio.addon.NanoEMS
+#NanoEMS
 Draft Implementation of a small EMS that integrates with Home Assistant OS.
 
 Feature Proposals:
